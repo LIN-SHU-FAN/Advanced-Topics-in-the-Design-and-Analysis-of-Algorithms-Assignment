@@ -23,10 +23,10 @@ The goal is
 - **Due Date**：23:59:59 on June 10th, 2024. Submission on Tronclass including slides and the Apriori algorithm code. **Late submission is not allowed**
 - **Presentation Dates**：June 11th to June 14th
 - **Presentation Groups**：
-  - 13:00-16:00 on June 11th, Group1 to Group10
-  - 09:00-12:00 on June 12th, Group11 to Group20
-  - 16:00-19:00 on June 13th, Group21 to Group30 
-  - 09:00-12:00 on June 14th, for students who are unable to attend the presentation at the scheduled time due to conflicts, please complete your presentation on this alternate date
+  - 13:00-16:00 on June 11th, Group1 to Group10 (ES705)
+  - 09:00-12:00 on June 12th, Group11 to Group20 (ES705)
+  - 16:00-19:00 on June 13th, Group21 to Group30 (EB109)
+  - 09:00-12:00 on June 14th, (ES705) for students who are unable to attend the presentation at the scheduled time due to conflicts, please complete your presentation on this alternate date
 - **Presentation Duration**：No more than 20 minutes
 - **Presentation Format**：
   - Live demo of the program
